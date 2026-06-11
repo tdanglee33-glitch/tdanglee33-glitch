@@ -8,7 +8,7 @@ I am a graduate of the University of San Diego as an Economics major and Compute
 - **Methodologies:** Linear & Log-Linear Regression, Statistical Forecasting, Data Cleaning
 
 ### 📈 Featured Projects
-- **[NBA Secondary Market Ticket Price Modeling]([https://github.com/your-username/nba-ticket-regression](https://github.com/tdanglee33-glitch/nba-ticket-regression.git))** A log-linear multiple regression model built in Python to isolate the economic drivers of ticket pricing, featuring an interactive Tableau dashboard.
+- **[NBA Secondary Market Ticket Price Modeling]((https://github.com/tdanglee33-glitch/nba-ticket-regression.git))** A log-linear multiple regression model built in Python to isolate the economic drivers of ticket pricing, featuring an interactive Tableau dashboard.
 
 ### 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/tristan-lee-a35ba0308)
