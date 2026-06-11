@@ -12,5 +12,5 @@ I am a graduate of the University of San Diego as an Economics major and Compute
 - **[Predictive Behavioral Modeling: Hotel Booking Cancellations](https://github.com/tdanglee33-glitch/hotel-cancellation-logistic.git)** A binary logistic regression model built in Python to forecast cancellation probabilities across 119,000+ reservations, optimizing hotel risk management and overbooking strategies.
 
 ### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/tristan-lee-a35ba0308)
+- LinkedIn: www.linkedin.com/in/tristan-lee-a35ba0308
 - Email: tdanglee33@gmail.com
